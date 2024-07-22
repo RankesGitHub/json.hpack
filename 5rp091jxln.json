@@ -251,12 +251,12 @@
     },
     {
       "server": "racknerd.900428.xyz",
-      "server_port": 48922,
+      "server_port": 51699,
       "tls": {
         "enabled": true,
         "insecure": true
       },
-      "password": "23.VCls4v907u",
+      "password": "kAm9dGpNCQ",
       "tag": "My LA trojan",
       "type": "trojan"
     }

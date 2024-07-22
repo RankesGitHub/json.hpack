@@ -263,11 +263,11 @@
   ],
   "route": {
     "geoip": {
-      "download_url": "https://github.com/soffchen/sing-geoip/releases/latest/download/geoip.db",
+      "download_url": "https://ghproxy.org/https://github.com/soffchen/sing-geoip/releases/latest/download/geoip.db",
       "download_detour": "select"
     },
     "geosite": {
-      "download_url": "https://github.com/soffchen/sing-geosite/releases/latest/download/geosite.db",
+      "download_url": "https://ghproxy.org/https://github.com/soffchen/sing-geosite/releases/latest/download/geosite.db",
       "download_detour": "select"
     },
     "rules": [

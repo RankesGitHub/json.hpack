@@ -241,8 +241,8 @@
     },
     {
       "server": "racknerd.900428.xyz",
-      "server_port": 39527,
-      "uuid": "b1509cee-9c29-44b6-9b81-29519da8de08",
+      "server_port": 18902,
+      "uuid": "1f089c66-d8f2-498c-97ae-155d98de87d8",
       "packet_encoding": "xudp",
       "security": "auto",
       "alter_id": 0,

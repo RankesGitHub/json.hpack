@@ -94,16 +94,16 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "My LA",
-        "My LA trojan"
+        
+        "Japan-Trojan"
       ]
     },
     {
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "My LA",
-        "My LA trojan"
+        
+        "Japan-Trojan"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -114,40 +114,40 @@
       "type": "selector",
       "outbounds": [
         "direct",
-        "My LA",
-        "My LA trojan"
+        
+        "Japan-Trojan"
       ]
     },
     {
       "tag": "🌌 Google",
       "type": "selector",
       "outbounds": [
-        "My LA",
-        "My LA trojan"
+        
+        "Japan-Trojan"
       ]
     },
     {
       "tag": "📟 Telegram",
       "type": "selector",
       "outbounds": [
-        "My LA",
-        "My LA trojan"
+        
+        "Japan-Trojan"
       ]
     },
     {
       "tag": "🐦 Twitter",
       "type": "selector",
       "outbounds": [
-        "My LA",
-        "My LA trojan"
+        
+        "Japan-Trojan"
       ]
     },
     {
       "tag": "👤 Facebook",
       "type": "selector",
       "outbounds": [
-        "My LA",
-        "My LA trojan"
+        
+        "Japan-Trojan"
       ]
     },
     {
@@ -155,8 +155,8 @@
       "type": "selector",
       "outbounds": [
         "direct",
-        "My LA",
-        "My LA trojan"
+        
+        "Japan-Trojan"
       ]
     },
     {
@@ -164,8 +164,8 @@
       "type": "selector",
       "outbounds": [
         "direct",
-        "My LA",
-        "My LA trojan"
+        
+        "Japan-Trojan"
       ]
     },
     {
@@ -173,8 +173,8 @@
       "type": "selector",
       "outbounds": [
         "direct",
-        "My LA",
-        "My LA trojan"
+        
+        "Japan-Trojan"
       ]
     },
     {
@@ -182,8 +182,8 @@
       "type": "selector",
       "outbounds": [
         "direct",
-        "My LA",
-        "My LA trojan"
+        
+        "Japan-Trojan"
       ]
     },
     {
@@ -198,8 +198,7 @@
       "type": "selector",
       "outbounds": [
         "direct",
-        "My LA",
-        "My LA trojan"
+        "Japan-Trojan"
       ]
     },
     {
@@ -207,8 +206,7 @@
       "type": "selector",
       "outbounds": [
         "direct",
-        "My LA",
-        "My LA trojan"
+        "Japan-Trojan"
       ]
     },
     {
@@ -241,23 +239,13 @@
     },
     {
       "server": "racknerd.900428.xyz",
-      "server_port": 18902,
-      "uuid": "1f089c66-d8f2-498c-97ae-155d98de87d8",
-      "packet_encoding": "xudp",
-      "security": "auto",
-      "alter_id": 0,
-      "tag": "My LA",
-      "type": "vmess"
-    },
-    {
-      "server": "racknerd.900428.xyz",
       "server_port": 11821,
       "tls": {
         "enabled": true,
         "insecure": true
       },
       "password": "MvdLqb09Zk23",
-      "tag": "My LA trojan",
+      "tag": "Japan-Trojan",
       "type": "trojan"
     }
   ],

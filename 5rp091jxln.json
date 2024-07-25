@@ -250,14 +250,6 @@
     }
   ],
   "route": {
-    "geoip": {
-      "download_url": "https://111.230.93.119:22265/down/43pIvlTqujvN.db",
-      "download_detour": "select"
-    },
-    "geosite": {
-      "download_url": "https://111.230.93.119:22265/down/57J2mwi4m4xk.db",
-      "download_detour": "select"
-    },
     "rules": [
       {
         "protocol": "dns",
